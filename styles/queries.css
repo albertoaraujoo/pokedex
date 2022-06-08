@@ -48,4 +48,36 @@
 
  }
 
+ @media (min-width: 1080px){
+
+    .container{
+        width: 90%;
+    }
+
+    .card-pokemon{
+        margin:30px;
+        width: calc(107px + 30%);
+        height: calc (132px + 30%);
+    }
+
+    img{
+        height: calc(89px+10%);
+        width: calc(84px +10%);
+    }
+
+    .pokeName{
+        font-size: 15px;
+    }
+
+    .pokeType{
+        font-size: 10px;
+    }
+
+    .pokeInfo{
+        height: 40px;
+    }
+
+
+ }
+
  
