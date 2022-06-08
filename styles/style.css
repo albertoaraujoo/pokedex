@@ -16,7 +16,6 @@ body{
     right: 0;
     align-items: center;
     justify-content: center;
-    
     font-family: 'Montserrat', sans-serif;
     font-weight:700;
     background-color: #0f0f0f;
@@ -85,6 +84,15 @@ img{
 
  .first-letter{
     text-transform:capitalize;
+ }
+
+ img:hover{
+
+    
+    width: 127px;
+    height:142px;
+    
+
  }
 
 
