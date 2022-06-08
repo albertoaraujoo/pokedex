@@ -1,0 +1,51 @@
+/*------ MEDIA QUERIES -------*/
+
+@media (max-width: 800px){
+
+    #container {
+        
+        grid-template-columns: auto auto auto auto;
+    }
+ }
+
+ @media (max-width: 650px){
+
+    #container {
+        
+        grid-template-columns: auto auto auto;
+    }
+ }
+
+ @media (max-width: 470px){
+
+    #container {
+        
+        grid-template-columns: auto auto;
+    }
+
+    
+ }
+
+ @media (max-width: 300px){
+
+    #container {
+        
+        grid-template-columns: auto auto;
+    }
+
+    .card-pokemon{
+        margin:5px;
+    }
+
+ }
+
+ @media (max-width: 253px){
+
+    #container {
+        
+        grid-template-columns: auto;
+    }
+
+ }
+
+ 
