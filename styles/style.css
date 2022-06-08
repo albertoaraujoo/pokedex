@@ -5,6 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
+    width: 100%;
 }
 
 .header{
